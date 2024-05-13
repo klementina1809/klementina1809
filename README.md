@@ -6,7 +6,7 @@ A junior web developer specialized in front-end, with a particular focus on Reac
 
 
 <div align="center">
-<a target="_blank" href="klementina1809.github.io/personalPortfolio/ ">
+<a target="_blank" href="klementina1809.github.io/personalPortfolio/">
 My portfolio
 </a>
 </div>
