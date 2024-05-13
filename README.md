@@ -10,12 +10,10 @@ A junior web developer specialized in front-end, with a particular focus on Reac
 	textDecoration="none"; target="_blank" href="klementina1809.github.io/personalPortfolio/ ">
 MY PERSONAL PORTFOLIO
 </a>
-</div>;
+</div>
 
 <h2>
 My Tool Stack :</h2>
-
----
 
 <div> 
   <img src="https://img.shields.io/badge/javascript-%23404d59.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge" />
@@ -25,10 +23,12 @@ My Tool Stack :</h2>
   <img src="https://img.shields.io/badge/SASS-%23404d59.svg?style=for-the-badge&logo=SASS&logoColor=hotpink" alt="SASS Badge" />
   <img src="https://img.shields.io/badge/bootstrap-%23404d59?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/tailwindcss-%23404d59?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  </div>
+  <div>
   <img src="https://img.shields.io/badge/git-%23404d59.svg?style=for-the-badge&logo=git&logoColor=red" alt="Git Badge" />
   <img src="https://img.shields.io/badge/NPM-%23404d59?style=for-the-badge&logo=npm&logoColor=red" alt="NPM Badge" />
   <img src="https://img.shields.io/badge/figma-%23404d59.svg?style=for-the-badge&logo=figma&logoColor=purple" alt="Figma Badge" />
-  <img src="https://img.shields.io/badge/vscode-%23404d59?style=for-the-badge&logo=vscode&logoColor=white" alt="VScode Badge" />
+  <img src="https://img.shields.io/badge/visualstudiocode-%23404d59?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VScode Badge" />
   <img src="https://img.shields.io/badge/notion-%23404d59?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/canva-%23404d59?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </div>
@@ -36,14 +36,10 @@ My Tool Stack :</h2>
 <h2>
 My Stats :</h2>
 
----
+<div>
+<a target="_blank" href="https://www.codewars.com/users/klementina1809"><img src='https://www.codewars.com/users/klementina1809/badges/large' alt=''></a>
+</div>
 
-  <div>
-	<a target="_blank" href="https://www.codewars.com/users/klementina1809"><img src='https://www.codewars.com/users/klementina1809/badges/micro' alt=''></a>
-  </div>
-
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=klementina1809&theme=react&hide_border=true" alt="GitHub Streak" /></a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=klementina1809&theme=black-ice&hide_border=true" alt="GitHub Streak" /></a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=klementina1809&theme=dark-smoky&hide_border=true" alt="GitHub Streak" /></a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=klementina1809&theme=blux&hide_border=true" alt="GitHub Streak" /></a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=klementina1809&theme=holi-theme&hide_border=true" alt="GitHub Streak" /></a>
+</div>
