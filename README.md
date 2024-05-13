@@ -1,9 +1,9 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merienda&weight=500&size=30&pause=1000&color=3BC7FF&center=true&vCenter=true&random=false&width=435&lines=Hey%2C+I'm+Albina+Khomenko" alt="Typing SVG" /></a>
+<h3>
+A junior web developer specialized in front-end, with a particular focus on React.</h3>
 </div>
 
-<h3 align="center">
-A junior web developer specialized in front-end, with a particular focus on React.</h3>
 
 <div align="center">
 <a color="#3bc7ff"
@@ -12,7 +12,8 @@ MY PERSONAL PORTFOLIO
 </a>
 </div>
 
-## My Tool Stack :
+### My Tool Stack :
+
 ---
 
 <div> 
@@ -33,11 +34,13 @@ MY PERSONAL PORTFOLIO
   <img src="https://img.shields.io/badge/canva-%23404d59?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </div>
 
-## My Stats :
+### My Stats :
+
 ---
 
-<div align="center">
+<div>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=klementina1809&theme=react&hide_border=true" alt="GitHub Streak" /></a>
+</div>
+<div>
 <a target="_blank" href="https://www.codewars.com/users/klementina1809"><img src='https://www.codewars.com/users/klementina1809/badges/large' alt=''></a>
 </div>
-
