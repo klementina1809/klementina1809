@@ -29,6 +29,7 @@
 </div>
 
 <div>
+    <img src="https://img.shields.io/badge/mui-%23404d59?style=for-the-badge&logo=mui&logoColor=white" alt="Mui" />
     <img src="https://img.shields.io/badge/bootstrap-%23404d59?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     <img src="https://img.shields.io/badge/git-%23404d59.svg?style=for-the-badge&logo=git&logoColor=red" alt="Git Badge" />
     <img src="https://img.shields.io/badge/NPM-%23404d59?style=for-the-badge&logo=npm&logoColor=red" alt="NPM Badge" />
