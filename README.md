@@ -21,23 +21,24 @@
 <div>
     <img src="https://img.shields.io/badge/javascript-%23404d59.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge" />
     <img src="https://img.shields.io/badge/react-%23404d59.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge" />
-    <img src="https://img.shields.io/badge/typescript-%23404d59.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="TypeScript Badge" />
-    <img src="https://img.shields.io/badge/html5-%23404d59.svg?style=for-the-badge&logo=html5&logoColor=orange" alt="HTML5 Badge" />
-    <img src="https://img.shields.io/badge/css3-%23404d59.svg?style=for-the-badge&logo=css3&logoColor=lightblue" alt="CSS3 Badge" />
-    <img src="https://img.shields.io/badge/SASS-%23404d59.svg?style=for-the-badge&logo=SASS&logoColor=hotpink" alt="SASS Badge" />
-    <img src="https://img.shields.io/badge/tailwindcss-%23404d59?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+    <img src="https://img.shields.io/badge/typescript-%23404d59.svg?style=for-the-badge&logo=typescript&logoColor=%233178C6" alt="TypeScript Badge" />
+    <img src="https://img.shields.io/badge/html5-%23404d59.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26" alt="HTML5 Badge" />
+    <img src="https://img.shields.io/badge/css3-%23404d59.svg?style=for-the-badge&logo=css3&logoColor=%231572B6" alt="CSS3 Badge" />
+    <img src="https://img.shields.io/badge/SASS-%23404d59.svg?style=for-the-badge&logo=SASS&logoColor=%23CC6699" alt="SASS Badge" />
+    <img src="https://img.shields.io/badge/tailwindcss-%23404d59?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4" alt="Tailwind" />
 </div>
 
 <div>
-    <img src="https://img.shields.io/badge/mui-%23404d59?style=for-the-badge&logo=mui&logoColor=white" alt="Mui" />
-    <img src="https://img.shields.io/badge/bootstrap-%23404d59?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/git-%23404d59.svg?style=for-the-badge&logo=git&logoColor=red" alt="Git Badge" />
-    <img src="https://img.shields.io/badge/NPM-%23404d59?style=for-the-badge&logo=npm&logoColor=red" alt="NPM Badge" />
-    <img src="https://img.shields.io/badge/figma-%23404d59.svg?style=for-the-badge&logo=figma&logoColor=purple" alt="Figma Badge" />
-    <img src="https://img.shields.io/badge/visualstudiocode-%23404d59?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VScode Badge" />
+    <img src="https://img.shields.io/badge/mui-%23404d59?style=for-the-badge&logo=mui&logoColor=%230081CB" alt="Mui" />
+    <img src="https://img.shields.io/badge/bootstrap-%23404d59?style=for-the-badge&logo=bootstrap&logoColor=%237952B3" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/git-%23404d59.svg?style=for-the-badge&logo=git&logoColor=%23F05033" alt="Git Badge" />
+    <img src="https://img.shields.io/badge/NPM-%23404d59?style=for-the-badge&logo=npm&logoColor=%23CB3837" alt="NPM Badge" />
+    <img src="https://img.shields.io/badge/figma-%23404d59.svg?style=for-the-badge&logo=figma&logoColor=%23A55FFF" alt="Figma Badge" />
+    <img src="https://img.shields.io/badge/vscode-%23404d59.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC" alt="VSCode Badge" />
     <img src="https://img.shields.io/badge/notion-%23404d59?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-    <img src="https://img.shields.io/badge/canva-%23404d59?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+    <img src="https://img.shields.io/badge/canva-%23404d59?style=for-the-badge&logo=canva&logoColor=%2300C4CC" alt="Canva" />
 </div>
+
 
 ---
 
