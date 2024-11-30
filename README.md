@@ -34,10 +34,9 @@
     <img src="https://img.shields.io/badge/git-%23404d59.svg?style=for-the-badge&logo=git&logoColor=%23F05033" alt="Git Badge" />
     <img src="https://img.shields.io/badge/NPM-%23404d59?style=for-the-badge&logo=npm&logoColor=%23CB3837" alt="NPM Badge" />
     <img src="https://img.shields.io/badge/figma-%23404d59.svg?style=for-the-badge&logo=figma&logoColor=%23A55FFF" alt="Figma Badge" />
-    <img src="https://img.shields.io/badge/WordPress-%23404d59.svg?style=for-the-badge&logo=WordPress&logoColor=%23A55FFF" alt="WordPress" />
-    <img src="https://img.shields.io/badge/vscode-%23404d59.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC" alt="VSCode Badge" />
     <img src="https://img.shields.io/badge/notion-%23404d59?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
     <img src="https://img.shields.io/badge/canva-%23404d59?style=for-the-badge&logo=canva&logoColor=%2300C4CC" alt="Canva" />
+    <img src="https://img.shields.io/badge/WordPress-%23404d59.svg?style=for-the-badge&logo=WordPress&logoColor=%23A55FFF" alt="WordPress" />
 </div>
 
 
