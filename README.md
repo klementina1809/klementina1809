@@ -3,7 +3,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Merienda&weight=500&size=30&pause=1000&color=3BC7FF&center=true&vCenter=true&random=false&width=435&lines=Hey%2C+I'm+Albina" alt="Typing SVG" />
     </a>
 </div>
-<h3>A junior web developer specialized in front-end, with a particular focus on React.</h3>
+<h3>Frontend Developer focused on building modern web applications with React.</h3>
 
 <div>
     <h3>
